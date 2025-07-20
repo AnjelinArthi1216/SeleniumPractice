@@ -1,0 +1,10 @@
+[DEBUG] 2025-07-11 20:15:46.381 [main] SampleLogj - This is a debug message
+[INFO ] 2025-07-11 20:15:46.383 [main] SampleLogj - This is an info message
+[WARN ] 2025-07-11 20:15:46.383 [main] SampleLogj - This is a warn message
+[ERROR] 2025-07-11 20:15:46.383 [main] SampleLogj - This is an error message
+[FATAL] 2025-07-11 20:15:46.384 [main] SampleLogj - This is a fatal message
+[DEBUG] 2025-07-17 01:42:41.331 [main] SampleLogj - This is a debug message
+[INFO ] 2025-07-17 01:42:41.332 [main] SampleLogj - This is an info message
+[WARN ] 2025-07-17 01:42:41.333 [main] SampleLogj - This is a warn message
+[ERROR] 2025-07-17 01:42:41.333 [main] SampleLogj - This is an error message
+[FATAL] 2025-07-17 01:42:41.333 [main] SampleLogj - This is a fatal message
